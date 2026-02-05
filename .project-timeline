@@ -1,0 +1,76 @@
+[develop] Checkpoint: stabilize CI smoke test
+[develop] Improve logging around quote failures
+[develop] Minor cleanup on path resolution
+[develop] Tighten REST client retry policy
+[develop] Add circuit-breaker hook for halt signal
+[develop] Handle rate-limit backoff on market fetch
+[develop] Handle rate-limit backoff on market fetch
+[develop] Tighten REST client retry policy
+[develop] Document deployment variables
+[develop] Improve logging around quote failures
+[develop] Checkpoint: stabilize CI smoke test
+[develop] Track exposure per outcome key
+[develop] Debounce follower wallet updates
+[develop] Track exposure per outcome key
+[develop] Handle rate-limit backoff on market fetch
+[develop] Reduce noisy reconnect spam
+[develop] Improve logging around quote failures
+[develop] Document deployment variables
+[feature/risk-and-circuit-breakers] Guard against duplicate order ids
+[feature/risk-and-circuit-breakers] Add circuit-breaker hook for halt signal
+[feature/risk-and-circuit-breakers] Minor cleanup on path resolution
+[feature/risk-and-circuit-breakers] Slice large order batches for latency
+[feature/risk-and-circuit-breakers] Harden validation on signed payloads
+[feature/risk-and-circuit-breakers] Slice large order batches for latency
+[feature/risk-and-circuit-breakers] Document deployment variables
+[feature/risk-and-circuit-breakers] Checkpoint: stabilize CI smoke test
+[feature/risk-and-circuit-breakers] Track exposure per outcome key
+[feature/risk-and-circuit-breakers] Tighten REST client retry policy
+[feature/risk-and-circuit-breakers] Slice large order batches for latency
+[feature/risk-and-circuit-breakers] Track exposure per outcome key
+[feature/risk-and-circuit-breakers] Add integration test for order placement
+[feature/risk-and-circuit-breakers] Minor cleanup on path resolution
+[feature/risk-and-circuit-breakers] Normalize decimal precision on prices
+[feature/risk-and-circuit-breakers] Refine spread calculation for crossed books
+[feature/risk-and-circuit-breakers] Minor cleanup on path resolution
+[feature/risk-and-circuit-breakers] Normalize decimal precision on prices
+[feature/risk-and-circuit-breakers] Checkpoint: stabilize CI smoke test
+[feature/copytrade-hooks] Slice large order batches for latency
+[feature/copytrade-hooks] Minor cleanup on path resolution
+[feature/copytrade-hooks] Tighten REST client retry policy
+[feature/copytrade-hooks] Improve logging around quote failures
+[feature/copytrade-hooks] Add integration test for order placement
+[feature/copytrade-hooks] Minor cleanup on path resolution
+[feature/copytrade-hooks] Harden validation on signed payloads
+[feature/copytrade-hooks] Add integration test for order placement
+[feature/copytrade-hooks] Document deployment variables
+[feature/copytrade-hooks] Scaffold copy-trade listener module
+[feature/copytrade-hooks] Refine spread calculation for crossed books
+[feature/copytrade-hooks] Debounce follower wallet updates
+[develop] Debounce follower wallet updates
+[develop] Reduce noisy reconnect spam
+[develop] Scaffold copy-trade listener module
+[develop] Fix edge case when liquidity drops mid-flight
+[develop] Debounce follower wallet updates
+[develop] Scaffold copy-trade listener module
+[develop] Harden validation on signed payloads
+[develop] Checkpoint: stabilize CI smoke test
+[feature/risk-and-circuit-breakers] Align fee model with exchange tiers
+[feature/risk-and-circuit-breakers] Tighten REST client retry policy
+[feature/risk-and-circuit-breakers] Handle rate-limit backoff on market fetch
+[feature/risk-and-circuit-breakers] Minor cleanup on path resolution
+[feature/risk-and-circuit-breakers] Minor cleanup on path resolution
+[feature/risk-and-circuit-breakers] Normalize decimal precision on prices
+[feature/risk-and-circuit-breakers] Track exposure per outcome key
+[feature/copytrade-hooks] Guard against duplicate order ids
+[feature/copytrade-hooks] Harden validation on signed payloads
+[develop] Track exposure per outcome key
+[develop] Track exposure per outcome key
+[develop] Track exposure per outcome key
+[feature/risk-and-circuit-breakers] Reduce noisy reconnect spam
+[feature/risk-and-circuit-breakers] Guard against duplicate order ids
+[feature/copytrade-hooks] Checkpoint: stabilize CI smoke test
+[feature/copytrade-hooks] Improve logging around quote failures
+[feature/copytrade-hooks] Harden validation on signed payloads
+[feature/copytrade-hooks] Normalize decimal precision on prices
+[feature/copytrade-hooks] Add circuit-breaker hook for halt signal
