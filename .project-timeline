@@ -74,3 +74,4 @@
 [feature/copytrade-hooks] Harden validation on signed payloads
 [feature/copytrade-hooks] Normalize decimal precision on prices
 [feature/copytrade-hooks] Add circuit-breaker hook for halt signal
+[develop] Debounce follower wallet updates
